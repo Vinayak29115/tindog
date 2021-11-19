@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Poppins&family=Yuji+Boku&display=swap');
+/*------------------------------ Header--------------------------*/
+body{
+    margin:0px;
+}
+.t-p1{
+    text-align: center;
+}
+.logo{
+    padding:30px 0px;
+}
+.navbar-nav{
+    list-style-type: none;
+    margin:0px 348px;
+    padding-bottom:16px;
+}
+.nav-item{
+    float: left;
+    padding:0px 36px;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+}
+.t-p2{
+    background-color: #007aff;
+}
+#intro1{
+    text-align: center;
+    color: white;
+    font-family:sans-serif;
+    padding:26px;
+    word-spacing: 12px;
+}
+#intro2{
+    text-align: center;
+    color: white;
+    font-size:46px;
+    font-family: 'Poppins', sans-serif;
+}
+.intro-link{
+    text-decoration: none;
+    color: white;
+    word-spacing:4px;
+    border:2px solid white;
+    border-radius:24px;
+    padding:11px 23px;
+}
+.intro-links{
+    text-align: center;
+    padding: 22px;
+}
+.intro-image{
+    margin:0px 672px;
+    margin-top: -128px;
+}
+.intro-link:hover{
+    background-color: #66bfbf;
+    color:black;
+}
+.t-p3{
+    text-align:center;
+}
+.hi{
+    color:gray;
+    font-family:sans-serif;
+    word-spacing: 4px;
+    margin:32px 0px;
+}
+.welcome{
+    color:tomato;
+    font-size:46px;
+    word-spacing: 2px;
+    margin-bottom:40px;
+}
+.welcome-stat{
+    word-spacing: 8px;
+    font-family: sans-serif;
+    font-size: larger;
+}
+/*----------------------main-----------------------------------------*/
