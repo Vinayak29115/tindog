@@ -3,25 +3,11 @@
 body{
     margin:0px;
 }
-.t-p1{
-    text-align: center;
-}
 .logo{
     padding:30px 0px;
 }
-.navbar-nav{
-    list-style-type: none;
-    margin:0px 348px;
-    padding-bottom:16px;
-}
-.nav-item{
-    float: left;
-    padding:0px 36px;
-}
-.nav-link{
-    text-decoration: none;
-    color: black;
-    font-weight: normal;
+.center{
+    margin: 0px auto;
 }
 .t-p2{
     background-color: #007aff;
@@ -51,8 +37,11 @@ body{
     text-align: center;
     padding: 22px;
 }
+.col-md-12{
+    width:auto;
+}
 .intro-image{
-    margin:0px 672px;
+    margin:0px auto;
     margin-top: -128px;
 }
 .intro-link:hover{
