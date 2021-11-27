@@ -69,3 +69,60 @@ body{
     font-size: larger;
 }
 /*----------------------main-----------------------------------------*/
+.m-p1{
+    margin:140px 0px;
+    background-image:url("labrador.png");
+}
+.service-left > h3{
+    color:Tomato;
+}
+.service-left > p{
+    word-spacing: 8px;
+    margin-bottom: 38px;
+    font-family: sans-serif;
+}
+.alignment{
+    text-align:center;
+}
+.m-p2 > p{
+    margin-top:-22px;
+}
+.facts{
+    border-radius:20px;
+    float:left;
+    margin-right:32px;
+    margin: 0px auto;
+    text-align:center;
+    background-color: rgb(185, 181, 181);
+    margin-bottom:8px;
+}
+.facts > a{
+    text-decoration: none;
+    color: tomato;
+}
+.facts > h3:hover{
+    color:yellow;
+}
+.col-md-4{
+    width:min-content;
+}
+.x{
+    background-color: #66bfbf;
+    width: 150px;
+    padding: 8px 0px;
+    border-radius: 24px;
+}
+.m-p3{
+    padding:44px 0px;
+}
+.image{
+    border-radius:0px 0px 20px 20px;
+}
+.sponsors{
+    width:auto;
+    float:left;
+}
+.sponsorship{
+    margin:0px auto;
+    padding:100px 0px;
+}
