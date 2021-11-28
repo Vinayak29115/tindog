@@ -37,6 +37,10 @@ body{
     text-align: center;
     padding: 22px;
 }
+.nav-item > a:hover{
+    color:#66bfbf;
+    text-decoration:none;
+}
 .col-md-12{
     width:auto;
 }
