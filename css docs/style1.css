@@ -126,6 +126,33 @@ body{
     margin:0px auto;
     padding:100px 0px;
 }
-.cuties{
-    
+.contact{
+    position: relative;
+    justify-content: center;
 }
+.cuties{
+
+}
+.form-inputs{
+    margin: 10px 0px;
+    border-radius: 10px;
+    width: -webkit-fill-available;
+}
+.input-submit{
+    background-color: #66bfbf;
+}
+/*-
+.footer{
+    list-style-type: none;
+}
+.footer-button{
+
+}
+.footer-elements{
+    float: left;
+}
+.footer-links{
+    text-decoration: none;
+    color: white;
+    float: left;
+}-*/
